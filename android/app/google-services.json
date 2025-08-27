@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098961605624",
+    "project_id": "micarro-ce44c",
+    "storage_bucket": "micarro-ce44c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098961605624:android:005970635d4b21745ffc0d",
+        "android_client_info": {
+          "package_name": "com.example.micarro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7JKOVvWsVmyO6SpQOnXYWxAcqyI2ceNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

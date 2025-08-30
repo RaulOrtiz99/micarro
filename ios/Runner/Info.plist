@@ -45,5 +45,27 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Se requiere acceso a la ubicación para notificaciones.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Se requiere acceso a la ubicación para notificaciones.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Se requiere acceso a la ubicación para notificaciones.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Se requiere para mejorar la experiencia de usuario.</string>
+	<key>NSPushNotificationUsageDescription</key>
+	<string>Esta app quiere enviarte notificaciones.</string>
 </dict>
 </plist>
